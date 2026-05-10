@@ -10,6 +10,6 @@ Check out my repos at [GLANCE suite](https://github.com/krelltunez?tab=repositor
 
 **lastGLANCE** — In development. A tracker for when you last did things and (optionally) when to do them again.
 
-## Support my work
+If you enjoy my work, please consider supporting ongoing development:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
