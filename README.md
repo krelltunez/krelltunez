@@ -12,13 +12,12 @@ I'm an indie developer focused on building local-first, privacy-respecting tools
 
 More in the [GLANCE suite](https://github.com/krelltunez?tab=repositories), all open source, all local-first.
 
-## Elsewhere
+## Free, hosted apps
 
 [dayglance.app](https://dayglance.app) · [lifeglance.app](https://lifeglance.app)
 
 ## Support my work
 
-If you enjoy what I build, consider supporting ongoing development:
+If you enjoy what I build, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/krelltunez) or:
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/krelltunez)
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
