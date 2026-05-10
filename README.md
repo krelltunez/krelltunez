@@ -14,7 +14,7 @@ More in the [GLANCE suite](https://github.com/krelltunez?tab=repositories), all 
 
 ## Free, hosted apps
 
-[dayglance.app](https://dayglance.app) · [lifeglance.app](https://lifeglance.app)
+**[dayglance.app](https://dayglance.app) · [lifeglance.app](https://lifeglance.app)**
 
 ## Support my work
 
