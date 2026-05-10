@@ -4,14 +4,21 @@ I'm an indie developer focused on building local-first, privacy-respecting tools
 
 ## What I'm building
 
-Check out my repos at [GLANCE suite](https://github.com/krelltunez?tab=repositories) — all open source, all local-first.
+**[dayGLANCE](https://github.com/krelltunez/dayGLANCE)**: a local-first day planner. No accounts, no subscriptions, no compromise. PWA, Android, self-hostable.
 
-**[dayGLANCE](https://dayglance.app)** — A local-first day planner. No accounts, no subscriptions, no compromise. PWA, Android, self-hostable.
+**[lifeGLANCE](https://github.com/krelltunez/lifeGLANCE)**: a zoomable personal timeline for life milestones. Self-hostable.
 
-**[lifeGLANCE](https://lifeglance.app)** — A zoomable personal timeline for life milestones. Self-hostable.
+**lastGLANCE**: in development. A tracker for when you last did things and (optionally) when to do them again.
 
-**lastGLANCE** — In development. A tracker for when you last did things and (optionally) when to do them again.
+More in the [GLANCE suite](https://github.com/krelltunez?tab=repositories), all open source, all local-first.
 
-If you enjoy my work, please consider supporting ongoing development:
+## Elsewhere
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
+[dayglance.app](https://dayglance.app) · [lifeglance.app](https://lifeglance.app)
+
+## Support my work
+
+If you enjoy what I build, consider supporting ongoing development:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/krelltunez)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
