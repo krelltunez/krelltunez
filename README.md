@@ -1,3 +1,5 @@
+## Who I am
+
 I'm an indie developer focused on building local-first, privacy-respecting tools that work offline and don't phone home.
 
 ## What I'm building
