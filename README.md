@@ -18,6 +18,5 @@ More in the [GLANCE suite](https://github.com/krelltunez?tab=repositories), all 
 
 ## Support my work
 
-If you enjoy what I build, consider:
-- sponsoring me on [GitHub Sponsors](https://github.com/sponsors/krelltunez)
-- [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
+If you enjoy what I build, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/krelltunez) or 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2LB3V1)
