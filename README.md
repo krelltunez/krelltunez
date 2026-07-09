@@ -4,7 +4,7 @@ I'm an indie developer focused on building local-first, privacy-respecting tools
 
 ## What I'm building
 
-**[dayGLANCE](https://github.com/krelltunez/dayGLANCE)**: a local-first day planner. No accounts, no subscriptions, no compromise. PWA, Android, self-hostable.
+**[dayGLANCE](https://github.com/krelltunez/dayGLANCE)**: a local-first day planner. PWA, Android, self-hostable.
 
 **[lifeGLANCE](https://github.com/krelltunez/lifeGLANCE)**: a zoomable personal timeline for life milestones. Self-hostable.
 
