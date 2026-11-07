@@ -4,11 +4,13 @@ I'm an indie developer focused on building local-first, privacy-respecting tools
 
 ## What I'm building
 
-**[dayGLANCE](https://github.com/krelltunez/dayGLANCE)**: a local-first day planner. PWA, Android, self-hostable.
+**[dayGLANCE](https://github.com/krelltunez/dayGLANCE)**: the flagship app: a local-first day planner. PWA, Android, iOS, macOS, self-hostable.
 
-**[lifeGLANCE](https://github.com/krelltunez/lifeGLANCE)**: a zoomable personal timeline for life milestones. Self-hostable.
+**[lastGLANCE](https://github.com/krelltunez/lastGLANCE)**: a tracker for when you last did things or when you were last in touch with someone. PWA, Android, iOS, self-hostable.
 
-**[lastGLANCE](https://github.com/krelltunez/lastGLANCE)**: a tracker for when you last did things and (optionally) when to do them again.
+**[lifeGLANCE](https://github.com/krelltunez/lifeGLANCE)**: a zoomable personal timeline for life milestones, past, present and future. PWA, Android, iOS, self-hostable.
+
+**[GLANCElauncher](https://github.com/krelltunez/GLANCElauncher)**: an Android home screen built around your day, bringing your dayGLANCE and lastGLANCE tasks, chores, goals, projects and people to your home screen.
 
 More in the [GLANCE suite](https://github.com/krelltunez?tab=repositories), all open source, all local-first.
 
